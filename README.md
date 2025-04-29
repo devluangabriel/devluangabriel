@@ -9,7 +9,23 @@ Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, Concluí o ensino médio
 ### 🤖 Linguagens e Tecnologias
 
 
+<img 
+    align="left" 
+    alt="java" 
+    title="java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -20,14 +36,6 @@ Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, Concluí o ensino médio
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="java" 
-    title="java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
 <img 
     align="left" 
     alt="mysql" 
