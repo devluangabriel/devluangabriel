@@ -9,31 +9,8 @@ Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, Concluí o ensino médio
 ### 🤖 Linguagens e Tecnologias
 
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -42,14 +19,7 @@ Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, Concluí o ensino médio
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="csharp" 
-    title="csharp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="java" 
@@ -76,14 +46,7 @@ Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, Concluí o ensino médio
 />
 <br/>
 <br/>
-<img 
-    align="left" 
-    alt="sqlite" 
-    title="sqlite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="mongodb" 
