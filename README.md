@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Luan Gabriel
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Full-Stack`**
 
-Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, Concluí o ensino médio no PLT, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na IESGO. Desde pequeno, sou apaixonado por tecnologia e estou em busca da conquista do meu primeiro emprego na área. Compartilho meu conhecimento e minha jornada através do meu Instagram, no perfil chamado "Dev.Luan".
+Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, com curso técnico em informática. Atualmente, estou cursando Analise e Desenvolvimento de Sistemas. Desde pequeno, sou apaixonado por tecnologia e estou em busca da conquista do meu primeiro emprego na área. Compartilho meu conhecimento e minha jornada através do meu Youtuber, no perfil chamado [Dev Luan Gabriel](https://www.youtube.com/@DevLuanGabriel).
 
 
 ---
@@ -29,6 +29,24 @@ Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, Concluí o ensino médio
 
 <img 
     align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="docker" 
+    title="docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -52,25 +70,9 @@ Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, Concluí o ensino médio
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
-<br/>
-<br/>
 
-<img 
-    align="left" 
-    alt="mongodb" 
-    title="mongodb"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="docker" 
-    title="docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
-/>
+
+
 <br/>
 <br/>
 
