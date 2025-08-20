@@ -1,12 +1,12 @@
-# 👩🏻‍💻 Luan Gabriel
-**`Desenvolvedor Full-Stack`**
+# 👩🏻‍💻 Hello, I'm Luan Gabriel 👋
+**`Back-End Developer`**
 
-Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, com curso técnico em informática. Atualmente, estou cursando Analise e Desenvolvimento de Sistemas. Desde pequeno, sou apaixonado por tecnologia e estou em busca da conquista do meu primeiro emprego na área. Compartilho meu conhecimento e minha jornada através do meu Youtuber, no perfil chamado [Dev Luan Gabriel](https://www.youtube.com/@DevLuanGabriel).
+Hello! My name is Luan Gabriel Romualdo de Jesus, I am 18 years old, and I'm currently seeking my first professional opportunity as a Back-End Developer. My passion for technology led me to pursue a degree in Analysis and Systems Development, where I am deepening my knowledge in logic, software architecture, and various technologies. My goal is to contribute to innovative projects and continue evolving as a back-end specialist.
 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 
 <img 
@@ -25,15 +25,6 @@ Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, com curso técnico em in
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <img 
@@ -76,7 +67,7 @@ Me chamo Luan Gabriel Romualdo de Jesus, tenho 17 anos, com curso técnico em in
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Tech Stack Highlights
 
 <p>
 
